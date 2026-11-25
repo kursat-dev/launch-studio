@@ -1,0 +1,20 @@
+{
+  "name": "launch-studio",
+  "owner": {
+    "name": "kursat-dev"
+  },
+  "metadata": {
+    "description": "Launch Studio: an honest marketing, research, design, SEO and review toolkit for founders building their product with Claude Code.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "launch-studio",
+      "source": "./plugins/launch-studio",
+      "description": "8 skills and an owner-proxy agent: studio setup, market and competitor research, document analysis, marketing strategy, site design, SEO audit, independent review and a gated roadmap loop.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": ["marketing", "competitor-analysis", "seo", "design", "landing-page", "startup", "founder", "review", "roadmap"]
+    }
+  ]
+}

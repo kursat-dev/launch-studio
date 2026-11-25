@@ -1,0 +1,10 @@
+{
+  "name": "launch-studio",
+  "version": "0.1.0",
+  "description": "An honest marketing, research, design, SEO and review toolkit for founders building their product with Claude Code. Every fact sourced, no fake proof, founder keeps the gates.",
+  "author": {
+    "name": "kursat-dev"
+  },
+  "license": "MIT",
+  "keywords": ["marketing", "competitor-analysis", "seo", "design", "landing-page", "startup", "founder", "review", "roadmap"]
+}
